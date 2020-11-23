@@ -1,3 +1,3 @@
-import { initMarkdown } from './plugins/init_markdown';
+import { initMarkdown } from './plugins/initMarkdown';
 
 initMarkdown();
